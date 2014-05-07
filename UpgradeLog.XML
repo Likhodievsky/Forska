@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Forska">
+</Property><Property Name="Файл решения" Value="G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Forska.sln">
+</Property><Property Name="Date" Value="20 марта 2014 г.">
+</Property><Property Name="Time" Value="9:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Forska.sln" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska.sln">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Forska.csproj" Description="Успешно создана резервная копия файла проекта: G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Forska.csproj">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form1.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form1.Designer.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form2.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form2.Designer.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\MyModel.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\MyModel.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Program.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Program.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Model.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Model.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Properties\Settings.settings" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\App.config" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\App.config">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form1.resx" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Form2.resx" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Properties\Resources.resx" Description="Успешно создана резервная копия файла G:\!!!!!!!!!!!!!!!!\Новая папка\Forska\Backup\Forska\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Forska" Source="Forska\Forska.csproj" Description="Файл проекта не нуждается в преобразовании.">
+</Event><Event ErrorLevel="3" Project="Forska" Source="Forska\Forska.csproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="" Source="Forska.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Forska.sln" Description="Converted">
+</Event></UpgradeLog>
